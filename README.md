@@ -20,3 +20,5 @@ If you want to train other split, you only need to change
 SPLIT=(1)
 ```
 to which split you want to train.
+
+You can download the pretrained model by [BaiduYun](https://pan.baidu.com/s/1WUrF0-dMyaS3InObBQa5zw ) with code: **CVPR**.
