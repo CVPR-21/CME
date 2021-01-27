@@ -21,4 +21,4 @@ SPLIT=(1)
 ```
 to which split you want to train.
 
-You can download the pretrained weight by [Google Drive](https://drive.google.com/file/d/1Q52271d_W7sfNvYlJ9JQ6EWGumkOayhU/view?usp=sharing) or [BaiduYun](https://pan.baidu.com/s/1WUrF0-dMyaS3InObBQa5zw ) with code: **CVPR** 
+You can download the pretrained weight by [Google Drive](https://drive.google.com/file/d/1-0Q2EqYXXb0dDm1J0e4dgyXeoQAesibU/view?usp=sharing) or [BaiduYun](https://pan.baidu.com/s/1WUrF0-dMyaS3InObBQa5zw ) with code: **CVPR** 
